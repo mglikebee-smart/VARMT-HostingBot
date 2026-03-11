@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VARMT.aternos.me:23950",
+    "ip": "VARMT.aternos.me",
     "port": 23950,
     "version": "",
     "try-creative": false
