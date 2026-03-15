@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VARMT.aternos.me",
-    "port": 23950,
+    "ip": "HellCraftMC.aternos.me",
+    "port": 29110,
     "version": "",
     "try-creative": false
   },
